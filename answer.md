@@ -7,5 +7,5 @@
 ## Задача 3  
 ![image](https://user-images.githubusercontent.com/113675674/211143721-de358978-1ec4-4983-831c-12e740bb198b.png)  
 
-## Задача 4    
+
 
